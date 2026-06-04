@@ -32,12 +32,9 @@ We perform end-to-end data analytics: exploratory analysis, agronomically-ground
 
 ``` 
 │   
-├── notebooks/
-│   └── TocklaiTea.ipynb            # Main analysis notebook
-├── report/
-│   └── DAV_Lab_Project_Report.pdf        # Full project report
-├── README.md
-└── requirements.txt
+├── TocklaiTea.ipynb            # Main analysis notebook│   
+├──  DAV_Lab_Project_Report.pdf        # Full project report
+└── README.md
 ```
 
 ---
