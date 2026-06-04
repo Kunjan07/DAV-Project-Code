@@ -30,12 +30,10 @@ We perform end-to-end data analytics: exploratory analysis, agronomically-ground
 
 ## 📁 Repository Structure
 
-```
-├── data/
-│   ├── tocklai_weather_2025.csv          # Raw 2025 weather data (source)
-│   └── tocklai_weather_production_2015_2025.csv  # Full dataset (2015–2025)
+``` 
+│   
 ├── notebooks/
-│   └── tocklai_analysis.ipynb            # Main analysis notebook
+│   └── TocklaiTea.ipynb            # Main analysis notebook
 ├── report/
 │   └── DAV_Lab_Project_Report.pdf        # Full project report
 ├── README.md
